@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 29 21:02:24 2019
-
-@author: VYBHAV JAIN
-"""
 import sounddevice as sd
 from scipy.io.wavfile import write
 
